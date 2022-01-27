@@ -1,0 +1,14 @@
+body{
+    color:white;
+    background: wheat;
+}
+.heading{
+    width:80%;
+    font-size: 22px;
+}
+.name_of_objects, #result_object_name,#result_object_accuracy{
+    color:yellow:
+}
+#camera{
+    border: 2px dashed black;
+}
